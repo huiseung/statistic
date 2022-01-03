@@ -23,6 +23,7 @@
 - [Treatment Effect](#treatment-effect)
 - [Regression](#regression)
   - [Leaner Regression](#leaner-regression)
+  - [MSE](#mse)
   - [Investment Variable](#investment-variable)
   - [generalized additive model](#generalized-additive-model)
 - [Classification](#classification)
@@ -124,6 +125,8 @@
 
 # Regression
 ## Leaner Regression
+## MSE
+![](./image/MSE.PNG)
 ## Investment Variable
 ## generalized additive model
 
