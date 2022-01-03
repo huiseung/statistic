@@ -18,12 +18,15 @@
   - [student's t test](#students-t-test)
   - [ANOVA](#anova)
   - [normality test](#normality-test)
-  - [KS test](#ks-test)
+  - [Chi-square test(Discrete Varaible Goodness of Fit Test)](#chi-square-testdiscrete-varaible-goodness-of-fit-test)
+  - [Komogorov Smirnov test(Continuous Variable Goodness of Fit Test)](#komogorov-smirnov-testcontinuous-variable-goodness-of-fit-test)
+- [Treatment Effect](#treatment-effect)
 - [Regression](#regression)
   - [Leaner Regression](#leaner-regression)
   - [Investment Variable](#investment-variable)
   - [generalized additive model](#generalized-additive-model)
 - [Classification](#classification)
+  - [Confution Matrix](#confution-matrix)
   - [logistic regression](#logistic-regression)
   - [decision tree](#decision-tree)
   - [k nearest](#k-nearest)
@@ -31,9 +34,25 @@
   - [xgboost](#xgboost)
   - [svm](#svm)
   - [ensemble](#ensemble)
+- [Recommend System](#recommend-system)
+  - [TopK Prediction](#topk-prediction)
+    - [NDCG, Hit Ratio](#ndcg-hit-ratio)
+    - [Apriori Algorithm](#apriori-algorithm)
+    - [Collaborative Filtering](#collaborative-filtering)
+    - [Matrix Factorization](#matrix-factorization)
+    - [Bayesian Personalized Ranking](#bayesian-personalized-ranking)
+    - [Grpah Convolution Network](#grpah-convolution-network)
+  - [CTR Prediction](#ctr-prediction)
+    - [Factorization Machines](#factorization-machines)
 - [Dimension Reduction](#dimension-reduction)
   - [PCA Principal Component Analysis](#pca-principal-component-analysis)
   - [AutoEncoder](#autoencoder)
+- [Pattern Recognition for Feature Extraction](#pattern-recognition-for-feature-extraction)
+  - [FeedForward Neural Network](#feedforward-neural-network)
+  - [Convolution Neural Network](#convolution-neural-network)
+  - [Recurrent Neural Network](#recurrent-neural-network)
+  - [Transformer](#transformer)
+  - [BERT: Bidirectional Encoder Representations from Transformers](#bert-bidirectional-encoder-representations-from-transformers)
 - [Time Series](#time-series)
   - [ARIMA](#arima)
   - [GARCH](#garch)
@@ -47,11 +66,17 @@
 - [sampling](#sampling)
   - [markov chain monte carlo](#markov-chain-monte-carlo)
   - [gibbs sampling](#gibbs-sampling)
+  - [VAE](#vae)
+  - [GAN](#gan)
 - [Game Theory](#game-theory)
   - [static games under complete information](#static-games-under-complete-information)
   - [dynamic games under complete information](#dynamic-games-under-complete-information)
   - [static games under incomplete information](#static-games-under-incomplete-information)
   - [dynamic games under incomplete information](#dynamic-games-under-incomplete-information)
+- [ReinForceLearing](#reinforcelearing)
+  - [Markov Decision Process](#markov-decision-process)
+  - [Deep Q Learning](#deep-q-learning)
+  - [Policy Gradient](#policy-gradient)
 
 # Probability & Random Variable
 ## Measure Theory
@@ -92,14 +117,18 @@
 ## student's t test
 ## ANOVA
 ## normality test
-## KS test
-  
+## Chi-square test(Discrete Varaible Goodness of Fit Test)
+## Komogorov Smirnov test(Continuous Variable Goodness of Fit Test)
+
+# Treatment Effect
+
 # Regression
 ## Leaner Regression
 ## Investment Variable
 ## generalized additive model
 
 # Classification
+## Confution Matrix 
 ## logistic regression
 ## decision tree
 ## k nearest
@@ -110,9 +139,30 @@
   - bagging(bootstrap aggregating)
   - boosting
 
+# Recommend System
+## TopK Prediction
+### NDCG, Hit Ratio
+### Apriori Algorithm
+### Collaborative Filtering
+### Matrix Factorization
+### Bayesian Personalized Ranking
+### Grpah Convolution Network
+
+## CTR Prediction
+### Factorization Machines
+![](./FM.PNG)
+
+
 # Dimension Reduction
 ## PCA Principal Component Analysis
 ## AutoEncoder
+
+# Pattern Recognition for Feature Extraction
+## FeedForward Neural Network
+## Convolution Neural Network
+## Recurrent Neural Network
+## Transformer
+## BERT: Bidirectional Encoder Representations from Transformers
 
 # Time Series
 ## ARIMA
@@ -139,9 +189,16 @@
 # sampling
 ## markov chain monte carlo
 ## gibbs sampling
+## VAE
+## GAN
 
 # Game Theory
 ## static games under complete information
 ## dynamic games under complete information
 ## static games under incomplete information
 ## dynamic games under incomplete information
+
+# ReinForceLearing
+## Markov Decision Process
+## Deep Q Learning
+## Policy Gradient
