@@ -88,6 +88,7 @@
 - KL divergence
   
 # Hyperthesis Test
+![](./hyperthesis1.PNG)
 ## student's t test
 ## ANOVA
 ## normality test
