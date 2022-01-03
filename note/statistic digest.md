@@ -97,7 +97,7 @@
 ## Characteristic Function
 
 ## Central Limit Theory
-![](./clt.PNG)
+![](./image/clt.PNG)
 
 # Parameter Estimation
 - estimation, estimator, estimate
@@ -113,7 +113,7 @@
 - KL divergence
   
 # Hyperthesis Test
-![](./hyperthesis1.PNG)
+![](./image/hyperthesis1.PNG)
 ## student's t test
 ## ANOVA
 ## normality test
@@ -150,7 +150,7 @@
 
 ## CTR Prediction
 ### Factorization Machines
-![](./FM.PNG)
+![](./image/FM.PNG)
 
 
 # Dimension Reduction
