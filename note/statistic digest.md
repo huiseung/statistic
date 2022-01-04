@@ -15,6 +15,7 @@
   - [bayes rule: prior distribution & posterior distribution](#bayes-rule-prior-distribution--posterior-distribution)
 - [Information Theory](#information-theory)
 - [Hyperthesis Test](#hyperthesis-test)
+  - [Domain](#domain)
   - [student's t test](#students-t-test)
   - [ANOVA](#anova)
   - [normality test](#normality-test)
@@ -114,6 +115,15 @@
 - KL divergence
   
 # Hyperthesis Test
+## Domain
+- null hyperthesis
+- alternative hyperthesis
+- type 1 error
+- type 2 error
+- reject region
+- critical value
+- test statistic
+- p-value
 ![](./image/hyperthesis1.PNG)
 ## student's t test
 ## ANOVA
@@ -123,10 +133,17 @@
 
 # Treatment Effect
 
+
 # Regression
 ## Leaner Regression
+
+![](./image/lr1.jpg)
+
+![](./image/lr2.jpg)
+
 ## MSE
 ![](./image/MSE.PNG)
+
 ## Investment Variable
 ## generalized additive model
 
